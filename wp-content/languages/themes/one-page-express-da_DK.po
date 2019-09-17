@@ -1,0 +1,1621 @@
+# Translation of Themes - One Page Express in Danish
+# This file is distributed under the same license as the Themes - One Page Express package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-04-09 14:40:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: da_DK\n"
+"Project-Id-Version: Themes - One Page Express\n"
+
+#. Theme Name of the theme
+msgid "One Page Express"
+msgstr "One Page Express"
+
+#: inc/functions.php:2329
+msgid "Built using WordPress and <a href=\"https://extendthemes.com/go/built-with-one-page-express\">OnePage Express Theme</a>."
+msgstr "Bygget med WordPress og <a href=\"https://extendthemes.com/go/built-with-one-page-express\">OnePage Express Theme</a>."
+
+#: inc/functions.php:105
+msgid "Full HD"
+msgstr "Fuld HD"
+
+#: inc/functions.php:2858
+msgid "Customize all theme colors in PRO. @BTN@"
+msgstr "Tilpas alle temafarver i PRO. @BTN@"
+
+#: inc/functions.php:2016
+msgid "Title and buttons style options available in PRO. @BTN@"
+msgstr "Titel og knapdesign muligheder tilgængelige i PRO. @BTN@"
+
+#: inc/functions.php:1578
+msgid "More content layouts available in PRO. @BTN@"
+msgstr "Flere indholdslayouts tilgængelige i PRO. @BTN@"
+
+#: inc/functions.php:1472
+msgid "10 more beautiful header designs are available in the PRO version. @BTN@"
+msgstr "10 andre smukke sidehoved deigns er tilgængelige i PRO-versionen. @BTN@"
+
+#: inc/functions.php:952
+msgid "You can use over 170 gradients in the PRO version. @BTN@"
+msgstr "Du kan bruge over 170 gradueringer i PRO-versionen. @BTN@"
+
+#: inc/functions.php:899
+msgid "Navigation colors and typography options available in PRO. @BTN@"
+msgstr "Navigationsfarver og skrifttypemuligheder er kun tilgængelige i PRO. @BTN@"
+
+#: inc/functions.php:783
+msgid "Parallax header background image available in PRO. @BTN@"
+msgstr "Parallax sidehoved baggrund er tilgængelig i PRO. @BTN@"
+
+#: inc/functions.php:492
+msgid "Footer text and color options available in PRO. @BTN@"
+msgstr "Sidefod tekst og farvemuligheder tilgængelige i PRO. @BTN@"
+
+#: inc/functions.php:358
+msgid "Typography options are only available in PRO. @BTN@"
+msgstr "Skrifttypemuligheder er kun tilgængelige i PRO. @BTN@"
+
+#: inc/functions.php:351
+msgid "Typography"
+msgstr "Skrifttype"
+
+#: inc/functions.php:314
+msgid "Footer Settings"
+msgstr "Footer Indstillinger"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:215
+msgid "Add Web Font"
+msgstr "Tilføj Webskrifttype"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:153
+msgid "Mobile Font Size"
+msgstr "Mobil skriftstørrelse"
+
+#: customizer/customizer-controls.php:490
+msgid "Upgrade to PRO"
+msgstr "Opgrader til Pro"
+
+#: customizer/customizer-controls.php:435
+msgid "Check all PRO features"
+msgstr "Vis alle PRO funktionerne"
+
+#: customizer/customizer-controls.php:206
+msgid "Available in PRO"
+msgstr "Tilgængelig i PRO"
+
+#: inc/functions.php:1572
+msgid "Text on left, image on right"
+msgstr "Tekst til venstre, billede til højre"
+
+#: inc/functions.php:1571
+msgid "Image on left, text on right"
+msgstr "Billede til venstre, tekst til højre"
+
+#: inc/functions.php:1570
+msgid "Text on left"
+msgstr "Tekst til venstre"
+
+#: inc/functions.php:1569
+msgid "Text on right"
+msgstr "Tekst til højre"
+
+#: inc/functions.php:1568
+msgid "Text on center"
+msgstr "Tekst i midten"
+
+#: inc/functions.php:1497
+msgid "Alternate text logo words"
+msgstr "Vekslende tekst logo ord"
+
+#: inc/functions.php:1460
+msgid "Apply Preset"
+msgstr "Anvend forudindstillet"
+
+#: inc/functions.php:486
+msgid "Widgets Boxes"
+msgstr "Widgetbokse"
+
+#: inc/functions.php:485
+msgid "Contact Boxes"
+msgstr "Kontaktbokse"
+
+#: inc/functions.php:484
+msgid "Simple"
+msgstr "Enkel"
+
+#: functions.php:34
+msgid "and the minimum required version is "
+msgstr "Version der kræves som minimum er"
+
+#: functions.php:33
+msgid "Current php version is:"
+msgstr "Nuværende PHP-version er:"
+
+#: functions.php:32
+msgid "You need to update your PHP version to use the <strong>One Page Express</strong>."
+msgstr "Du skal opdatere din PHP-version for at bruge <strong>One Page Express</strong>."
+
+#: functions.php:30
+msgid "One Page Express theme activation failed!"
+msgstr "One Page Express temaaktivering mislykkedes!"
+
+#: customizer/customizer-controls.php:533
+msgid "Choose Icon"
+msgstr "Vælg ikon"
+
+#: inc/theme-info.php:57
+msgid "3. Enjoy! :)"
+msgstr "3. God fornøjelse! :)"
+
+#: inc/theme-info.php:56
+msgid "Customize"
+msgstr "Tilpas"
+
+#: inc/theme-info.php:40
+msgid "Plugin is installed and active."
+msgstr "Plugin er installeret og aktivt."
+
+#: inc/theme-info.php:8
+msgid "1. Install the recommended plugins"
+msgstr "1. Installer de anbefalede plugins"
+
+#: inc/theme-info.php:7
+msgid "Get Started in 3 Easy Steps"
+msgstr "Kom i gang med tre lette trin"
+
+#: inc/theme-info.php:5
+msgid "We're glad you chose our theme and we hope it will help you create a beautiful site in no time!<br> If you have any suggestions, don't hesitate to leave us some feedback."
+msgstr "Vi er glade for, at du kar valgt vores tema, og håber det vil hjælpe dig til at skabe et smukt websted på ingen tid!<br> Hvis du har nogen forslag, så tøv ikke med at give os feedback.."
+
+#: inc/theme-info.php:4
+msgid "Thanks for choosing One Page Express!"
+msgstr "Tak fordi du valgte One Page Express!"
+
+#: inc/companion.php:65 inc/companion.php:140
+msgid "Install now"
+msgstr "Installer nu"
+
+#: inc/companion.php:62 inc/companion.php:137
+msgid "Activate now"
+msgstr "Aktiver nu"
+
+#: inc/companion.php:56
+msgid "and many other features"
+msgstr "og mange andre muligheder"
+
+#: inc/companion.php:55
+msgid "3 footer types"
+msgstr "3 former for sidefødder"
+
+#: inc/companion.php:54
+msgid "5 header types"
+msgstr "5 former for sidehoveder"
+
+#: inc/companion.php:53
+msgid "Live content editing"
+msgstr "Live indholdsredigering"
+
+#: inc/companion.php:52
+msgid "25 predefined content sections"
+msgstr "25 prædefinerede indholdssektioner"
+
+#: inc/companion.php:51
+msgid "Drag and drop page customization"
+msgstr "Træk og slip sidetilpasning"
+
+#: inc/companion.php:50
+msgid "Beautiful ready-made homepage"
+msgstr "Smukt færdiglavet websted"
+
+#: inc/companion.php:48
+msgid "Here's what you'll get"
+msgstr "Her er hvad, du får"
+
+#: inc/companion.php:47 inc/companion.php:132
+msgid "Please Install the One Page Express Companion Plugin to Enable All the Theme Features"
+msgstr "Installer venligst One Page Express Companion pluginet for at aktivere alle temafunktionerne"
+
+#: inc/functions.php:2738
+msgid "Posts navigation"
+msgstr "Navigation til indlæg"
+
+#: index.php:24 inc/functions.php:2737
+msgid "Newer posts"
+msgstr "Nyere indlæg"
+
+#: index.php:23 inc/functions.php:2736
+msgid "Older posts"
+msgstr "Ældre indlæg"
+
+#: inc/functions.php:2466
+msgid "Video is playing."
+msgstr "Video afspiller"
+
+#: inc/functions.php:2465
+msgid "Video is paused."
+msgstr "Video er sat på pause"
+
+#: inc/functions.php:2464
+msgid "Play"
+msgstr "Spil"
+
+#: inc/functions.php:2463
+msgid "Pause"
+msgstr "Pause"
+
+#: inc/functions.php:1956
+msgid "Show secondary button"
+msgstr "Vis sekundær knap"
+
+#: inc/functions.php:1948
+msgid "Secondary Button"
+msgstr "Sekundær knap"
+
+#: inc/functions.php:1924 inc/functions.php:1993
+msgid "URL"
+msgstr "URL"
+
+#: inc/functions.php:1895 inc/functions.php:1964
+msgid "Label"
+msgstr "Etiket"
+
+#: inc/functions.php:1887
+msgid "Show primary button"
+msgstr "Vis primære knap"
+
+#: inc/functions.php:1879
+msgid "Primary Button"
+msgstr "Primære knap"
+
+#: inc/functions.php:1840
+msgid "Show subtitle"
+msgstr "Vis undertitel"
+
+#: inc/functions.php:1793
+msgid "Show title"
+msgstr "Vis titel"
+
+#: inc/functions.php:1712
+msgid "Text Width"
+msgstr "Tekst bredde"
+
+#: inc/functions.php:1652
+msgid "Image width"
+msgstr "Billede bredde"
+
+#: inc/functions.php:1564
+msgid "Content template"
+msgstr "Indhold skabelon"
+
+#: inc/functions.php:1549
+msgid "Overlap with"
+msgstr "Overlap med"
+
+#: inc/functions.php:1541
+msgid "Allow blog content to overlap header"
+msgstr "Tillad blogindholdet at overlappe sidehovedet"
+
+#: inc/functions.php:1533
+msgid "Main Content"
+msgstr "Hovedindhold"
+
+#: inc/functions.php:1524
+msgid "Choose logo"
+msgstr "Vælg logo"
+
+#: inc/functions.php:1522
+msgid "No logo selected"
+msgstr "Intet logo valgt"
+
+#: inc/functions.php:1521
+msgid "Default"
+msgstr "Standard"
+
+#: inc/functions.php:1519
+msgid "Change logo"
+msgstr "Skift logo"
+
+#: inc/functions.php:1518 inc/functions.php:1523
+msgid "Select logo"
+msgstr "Vælg logo"
+
+#: inc/functions.php:1510
+msgid "Dark Logo"
+msgstr "Mørkt logo"
+
+#: inc/functions.php:1486
+msgid "Logo Max Height"
+msgstr "Logo maks. højde"
+
+#: inc/functions.php:1379
+msgctxt "Shapes"
+msgid "Zigzag"
+msgstr "Zigzag"
+
+#: inc/functions.php:1374
+msgctxt "Shapes"
+msgid "Split"
+msgstr "Opdelt"
+
+#: inc/functions.php:1369
+msgctxt "Shapes"
+msgid "Book"
+msgstr "Bog"
+
+#: inc/functions.php:1364
+msgctxt "Shapes"
+msgid "Arrow"
+msgstr "Pil"
+
+#: inc/functions.php:1357
+msgctxt "Shapes"
+msgid "Drops"
+msgstr "Dråber"
+
+#: inc/functions.php:1351
+msgctxt "Shapes"
+msgid "Curve Asymmetrical"
+msgstr "Kurve asymmetrisk"
+
+#: inc/functions.php:1347
+msgctxt "Shapes"
+msgid "Curve"
+msgstr "Kurve"
+
+#: inc/functions.php:1340
+msgctxt "Shapes"
+msgid "Clouds"
+msgstr "Skyer"
+
+#: inc/functions.php:1335
+msgctxt "Shapes"
+msgid "Waves Pattern"
+msgstr "Bølger mønster"
+
+#: inc/functions.php:1331
+msgctxt "Shapes"
+msgid "Waves Brush"
+msgstr "Bølger pensel"
+
+#: inc/functions.php:1326
+msgctxt "Shapes"
+msgid "Waves"
+msgstr "Bølger"
+
+#: inc/functions.php:1320
+msgctxt "Shapes"
+msgid "Pyramids"
+msgstr "Pyramider"
+
+#: inc/functions.php:1315
+msgctxt "Shapes"
+msgid "Mountains"
+msgstr "Bjerge"
+
+#: inc/functions.php:1312
+msgctxt "Shapes"
+msgid "Fan Opacity"
+msgstr "Ventilator gennemsigtighed"
+
+#: inc/functions.php:1306
+msgctxt "Shapes"
+msgid "Triangle Asymmetrical"
+msgstr "Trekant asymmetrisk"
+
+#: inc/functions.php:1302
+msgctxt "Shapes"
+msgid "Triangle"
+msgstr "Trekant"
+
+#: inc/functions.php:1298
+msgctxt "Shapes"
+msgid "Tilt Opacity"
+msgstr "Vipning gennesigtighed"
+
+#: inc/functions.php:1293
+msgctxt "Shapes"
+msgid "Tilt Flipped"
+msgstr "Vipning vendt"
+
+#: inc/functions.php:1288
+msgctxt "Shapes"
+msgid "Tilt"
+msgstr "Vipning"
+
+#: inc/functions.php:1239 inc/functions.php:1621
+msgid "Content Spacing"
+msgstr "Indhold mellemrum"
+
+#: inc/functions.php:1219
+msgid "Show subtitle (blog description)"
+msgstr "Vis undertitel (blog beskrivelse)"
+
+#: inc/functions.php:1144
+msgid "Separator Height"
+msgstr "Separator højde"
+
+#: inc/functions.php:1118
+msgid "Show header separator"
+msgstr "Vis sidehoved seperator"
+
+#: inc/functions.php:1111
+msgid "Header Separator"
+msgstr "Sidehoved seperator"
+
+#: inc/functions.php:1073
+msgid "Overlay Opacity"
+msgstr "Overlejring gennemsigtighed"
+
+#: inc/functions.php:1037
+msgid "Overlay Color"
+msgstr "Overlejring farve"
+
+#: inc/functions.php:1027
+msgid "Show overlay"
+msgstr "Vis overlejring"
+
+#: inc/functions.php:1018
+msgid "Header Overlay Options"
+msgstr "Sidehoved overlejring muligheder"
+
+#: inc/functions.php:1001
+msgid "Effect Speed"
+msgstr "Effekt hastighed"
+
+#: inc/functions.php:984
+msgid "Slide Duration"
+msgstr "Slide varighed"
+
+#: inc/functions.php:965
+msgid "slideshow image"
+msgstr "slideshow billede"
+
+#: inc/functions.php:960
+msgid "Header Slideshow Images"
+msgstr "Sidehoved slideshow billeder"
+
+#: inc/functions.php:935
+msgid "Header Gradient"
+msgstr "Sidehoved graduering"
+
+#: inc/functions.php:923
+msgid "Full Height Background"
+msgstr "Fuld højde baggrund"
+
+#: inc/functions.php:914
+msgid "Header Background Options"
+msgstr "Sidehoved baggrundsmuligheder"
+
+#: inc/functions.php:889
+msgid "Transparent Navigation"
+msgstr "Gennemsigtig navigation"
+
+#: inc/functions.php:879
+msgid "Stick to top"
+msgstr "Fastgør til toppen"
+
+#: inc/functions.php:869
+msgid "Boxed Navigation"
+msgstr "Boks navigation"
+
+#: inc/functions.php:859
+msgid "Show Navigation Bottom Border"
+msgstr "Vis navigationsknap kant"
+
+#: inc/functions.php:851
+msgid "Navigation Options"
+msgstr "Navigationsmuligheder"
+
+#: inc/functions.php:822
+msgid "Video Poster"
+msgstr "Videoplakat"
+
+#: inc/functions.php:810
+msgid "External Video"
+msgstr "Ekstern video"
+
+#: inc/functions.php:798
+msgid "Self hosted video (MP4)"
+msgstr "Egenhosted video (MP4)"
+
+#: inc/functions.php:772
+msgid "Header Image"
+msgstr "Header billede"
+
+#: inc/functions.php:749
+msgid "Video"
+msgstr "Video"
+
+#: inc/functions.php:741
+msgid "Slideshow"
+msgstr "Slideshow"
+
+#: inc/functions.php:734
+msgid "Gradient"
+msgstr "Graduering"
+
+#: inc/functions.php:727 inc/functions.php:975 inc/functions.php:1761
+msgid "Image"
+msgstr "Billede"
+
+#: inc/functions.php:721 inc/functions.php:1458
+msgid "Background Type"
+msgstr "Baggrundstype"
+
+#: inc/functions.php:690
+msgid " icon"
+msgstr "Ikon"
+
+#: inc/functions.php:670
+msgid " url"
+msgstr " url"
+
+#: inc/functions.php:655
+msgid "Show "
+msgstr "Vis"
+
+#: inc/functions.php:636
+msgid "Social Icons"
+msgstr "Sociale ikoner"
+
+#: inc/functions.php:591
+msgid "Box 3"
+msgstr "Boks 3"
+
+#: inc/functions.php:546
+msgid "Box 2"
+msgstr "Boks 2"
+
+#: inc/functions.php:531 inc/functions.php:576 inc/functions.php:621
+msgid "Text"
+msgstr "Tekst"
+
+#: inc/functions.php:516 inc/functions.php:561 inc/functions.php:606
+msgid "Icon"
+msgstr "Ikon"
+
+#: inc/functions.php:501
+msgid "Box 1"
+msgstr "Boks 1"
+
+#: inc/functions.php:480
+msgid "Template"
+msgstr "Skabelon"
+
+#: inc/functions.php:461
+msgid "Icon 5"
+msgstr "Ikon 5"
+
+#: inc/functions.php:454
+msgid "Icon 4"
+msgstr "Ikon 4"
+
+#: inc/functions.php:448
+msgid "Icon 3"
+msgstr "Ikon 3"
+
+#: inc/functions.php:442
+msgid "Icon 2"
+msgstr "Ikon 2"
+
+#: inc/functions.php:436
+msgid "Icon 1"
+msgstr "Ikon 1"
+
+#: inc/functions.php:340
+msgid "Inner Pages Header Content"
+msgstr "Indersider sidehoved indhold"
+
+#: inc/functions.php:335
+msgid "Inner Pages Header Background"
+msgstr "Indersider sidehoved baggrund"
+
+#: inc/functions.php:330
+msgid "Front Page Header Content"
+msgstr "Forside sidehoved indhold"
+
+#: inc/functions.php:325
+msgid "Front Page Header Background"
+msgstr "Forside sidehoved baggrund"
+
+#: inc/functions.php:320
+msgid "Front Page Header Designs"
+msgstr "Forside sidehoved designs"
+
+#: inc/functions.php:298 inc/functions.php:307
+msgid "Front Page content"
+msgstr "Handlingsknap 3"
+
+#: inc/functions.php:284
+msgid "Header"
+msgstr "Header"
+
+#: inc/functions.php:111
+msgid "One Page Express Info"
+msgstr "One Page Express information"
+
+#: inc/functions.php:77
+msgid "The Contact Form 7 plugin is recommended for the One Page Express contact section."
+msgstr "Contact Form 7 pluginet anbefales til One Page Express' kontaktsektion."
+
+#: inc/functions.php:76
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: inc/functions.php:67
+msgid "The One Page Express Companion plugin adds drag and drop functionality and many other features to the One Page Express theme."
+msgstr "One Page Express Companion pluginet tilføjer træk og slip funktionalitet og mange andre muligheder til One Page Express temaet."
+
+#: inc/functions.php:66
+msgid "One Page Express Companion"
+msgstr "One Page Express Companion"
+
+#: inc/functions.php:92
+msgid "This feature requires the One Page Express Companion plugin to be installed."
+msgstr "Denne funktion kræver, at One Page Express Companion pluginet er installeret."
+
+#: inc/functions.php:91
+msgid "Install One Page Express Companion"
+msgstr "Installer One Page Express Companion"
+
+#: inc/functions.php:90
+msgid "This feature requires the One Page Express Companion plugin to be activated."
+msgstr "Denne funktion kræver, at One Page Express Companion pluginet er aktiveret."
+
+#: inc/functions.php:89
+msgid "Activate One Page Express Companion"
+msgstr "Aktiver One Page Express Companion"
+
+#: footer-content-lists.php:9 footer-content-lists.php:20
+#: footer-content-lists.php:31
+msgid "Go to widgets section to add a widget here."
+msgstr "Gå til widgetsektionen for at tilføje en widget her."
+
+#: customizer/kirki/includes/class-kirki-l10n.php:214
+msgid "Hex Value"
+msgstr "Hex værdi"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:213
+msgid "Switch Editor"
+msgstr "Skift Editor"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:212
+msgid "Close Editor"
+msgstr "Luk Editor"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:211
+msgid "Open Editor"
+msgstr "Åbn Editor"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:210
+msgid "Select a Page"
+msgstr "Vælg en Side"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:209
+msgid "Initial"
+msgstr "Initial"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:208
+msgid "Lowercase"
+msgstr "Små bogstaver"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:207
+msgid "Uppercase"
+msgstr "Store bogstaver"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:206
+msgid "Capitalize"
+msgstr "Stort forbogstav"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:205
+msgid "None"
+msgstr "Ingen"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:204
+msgid "Text Transform"
+msgstr "Tekstomdannelse"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:203 inc/functions.php:1186
+#: inc/functions.php:1586
+msgid "Text Align"
+msgstr "Tekstjustering"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:202
+msgid "%s Reset"
+msgstr "%s nulstil"
+
+#: customizer/kirki/includes/sections/class-kirki-sections-hover-section.php:46
+#: customizer/kirki/includes/class-kirki-l10n.php:201
+msgid "Back"
+msgstr "Tilbage"
+
+#: customizer/kirki/includes/sections/class-kirki-sections-hover-section.php:40
+#: customizer/kirki/includes/class-kirki-l10n.php:200
+#: customizer/customizer-controls.php:586
+msgid "Press return or enter to open this section"
+msgstr "Tryk på return eller enter for at åbne denne sektion"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:199
+msgid "Limit: %s rows"
+msgstr "Begrænsning: %s rækker"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:198
+msgid "row"
+msgstr "Række"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:197
+msgid "Add new"
+msgstr "Tilføj ny"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:196
+msgid "Invalid Value"
+msgstr "Ugyldig værdi"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:195
+msgid "Ultra-Bold 900 Italic"
+msgstr "Ekstra fed 900 kursiv"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:194
+msgid "Ultra-Bold 900"
+msgstr "Ekstra fed 900"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:193
+msgid "Extra-Bold 800 Italic"
+msgstr "Ekstra fed 800 kursiv"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:192
+msgid "Extra-Bold 800"
+msgstr "Ekstra fed 800"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:191
+msgid "Bold 700 Italic"
+msgstr "Fed 700 kursiv"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:190
+msgid "Bold 700"
+msgstr "Fed 700"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:189
+msgid "Semi-Bold 600 Italic"
+msgstr "Halvfed 600 kursiv"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:188
+msgid "Semi-Bold 600"
+msgstr "Halvfed 600"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:187
+msgid "Medium 500 Italic"
+msgstr "Mellem 500 kursiv"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:186
+msgid "Medium 500"
+msgstr "Mellem 500"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:185
+msgid "Normal 400 Italic"
+msgstr "Normal 400 kursiv"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:184
+msgid "Normal 400"
+msgstr "Normal 400"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:183
+msgid "Book 300 Italic"
+msgstr "Bog 300 kursiv"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:182
+msgid "Book 300"
+msgstr "Bog 300"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:181
+msgid "Light 200 Italic"
+msgstr "Let 200 kursiv"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:180
+msgid "Light 200"
+msgstr "Let 200"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:179
+msgid "Ultra-Light 100 Italic"
+msgstr "Ultra-let 100 kursiv"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:178
+msgid "Ultra-Light 100"
+msgstr "Ultra-let 100"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:177
+msgid "Spacing"
+msgstr "Afstand"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:176
+msgid "Height"
+msgstr "H&#248;jde"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:175
+msgid "Size"
+msgstr "Størrelse"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:174
+msgid "Subset"
+msgstr "Undergruppe"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:173
+msgid "Variant"
+msgstr "Variant"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:172
+msgid "Select a font-family"
+msgstr "Vælg en skrifttypefamilie"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:171 inc/functions.php:1520
+msgid "Remove"
+msgstr "Fjern"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:170
+msgid "No File Selected"
+msgstr "Ingen fil valgt"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:169
+msgid "Change File"
+msgstr "Ændr fil"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:168
+msgid "Add File"
+msgstr "Tilføj en fil"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:167
+msgid "No Image Selected"
+msgstr "Intet billede valgt"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:166
+msgid "Change Image"
+msgstr "Ændre billede"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:165
+msgid "Add Image"
+msgstr "Tilføj billede"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:164
+msgid "Color"
+msgstr "Farve"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:163
+msgid "Justify"
+msgstr "Lige margener"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:162 inc/functions.php:1193
+#: inc/functions.php:1593
+msgid "Center"
+msgstr "Centreret"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:161 inc/functions.php:1194
+#: inc/functions.php:1594
+msgid "Right"
+msgstr "Højre"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:160 inc/functions.php:1192
+#: inc/functions.php:1592
+msgid "Left"
+msgstr "Venstre"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:159
+msgid "Bottom"
+msgstr "Bund"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:158
+msgid "Top"
+msgstr "Top"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:157
+msgid "Letter Spacing"
+msgstr "Bogstavafstand"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:156
+msgid "Font Style"
+msgstr "Typografi"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:155
+msgid "Line Height"
+msgstr "Linjehøjde"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:154
+msgid "Font Weight"
+msgstr "Skrift tykkelse"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:152
+msgid "Font Size"
+msgstr "Skriftstørrelse"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:151
+msgid "Font Family"
+msgstr "Skrifttype"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:150
+msgctxt "font style"
+msgid "Monospace"
+msgstr "Monospatieret"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:149
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr "Sans Serif"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:148
+msgctxt "font style"
+msgid "Serif"
+msgstr "Serif"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:147
+msgid "Thai"
+msgstr "Thailansk"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:146
+msgid "Telugu"
+msgstr "Telugu"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:145
+msgid "Tamil"
+msgstr "Tamilsk"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:144
+msgid "Gujarati"
+msgstr "Gujarati"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:143
+msgid "Bengali"
+msgstr "Bengalsk"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:142
+msgid "Arabic"
+msgstr "Arabisk"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:141
+msgid "Hebrew"
+msgstr "Hebraisk"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:140
+msgid "Vietnamese"
+msgstr "Vietnamesisk"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:139
+msgid "Latin Extended"
+msgstr "Latin udvidet"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:138
+msgid "Latin"
+msgstr "Latin"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:137
+msgid "Khmer"
+msgstr "Khmer"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:136
+msgid "Greek Extended"
+msgstr "Græsk udvidet"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:135
+msgid "Greek"
+msgstr "Græsk"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:134
+msgid "Devanagari"
+msgstr "Sanskrit"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:133
+msgid "Cyrillic Extended"
+msgstr "Kyrillisk udvidet"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:132
+msgid "Cyrillic"
+msgstr "Kyrillisk"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:131
+msgid "All"
+msgstr "Alle"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:130
+msgid "OFF"
+msgstr "SLUKKET"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:129
+msgid "ON"
+msgstr "TÆNDT"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:128
+msgid "Background Opacity"
+msgstr "Baggrund gennemsigtighed"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:127
+msgid "Background Position"
+msgstr "Baggrundsplacering"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:126
+msgid "Center Bottom"
+msgstr "Midte bund"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:125
+msgid "Center Center"
+msgstr "Midte i midten"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:124
+msgid "Center Top"
+msgstr "Midte top"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:123
+msgid "Right Bottom"
+msgstr "Højre bund"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:122
+msgid "Right Center"
+msgstr "Højre midte"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:121
+msgid "Right Top"
+msgstr "Højre top"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:120
+msgid "Left Bottom"
+msgstr "Venstre bund"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:119
+msgid "Left Center"
+msgstr "Venstre midte"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:118
+msgid "Left Top"
+msgstr "Venstre top"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:117
+msgid "Background Attachment"
+msgstr "Baggrundsvedhæftning"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:116
+msgid "Scroll"
+msgstr "Rul"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:115
+msgid "Fixed"
+msgstr "Låst"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:114
+msgid "Background Size"
+msgstr "Baggrundsstørrelse"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:113
+msgid "Contain"
+msgstr "Indeholder"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:112
+msgid "Cover"
+msgstr "Cover"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:111
+msgid "Background Repeat"
+msgstr "Gentag baggrund"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:110
+msgid "Inherit"
+msgstr "Overtag"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:109
+msgid "Repeat Vertically"
+msgstr "Gentag lodret"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:108
+msgid "Repeat Horizontally"
+msgstr "Gentag vandret"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:107
+msgid "Repeat All"
+msgstr "Gentag alt"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:106
+msgid "No Repeat"
+msgstr "Ingen gentagelse"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:105
+msgid "Background Image"
+msgstr "Baggrundsbillede"
+
+#: customizer/kirki/includes/class-kirki-l10n.php:104
+msgid "Background Color"
+msgstr "Baggrundsfarve"
+
+#: customizer/customizer-controls.php:532
+msgid "Select FontAwesome Icon"
+msgstr "Vælg FontAwesome Ikon"
+
+#: customizer/customizer-controls.php:519
+msgid "Change Icon"
+msgstr "Skift ikon"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installerer plugin  %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Alle installationer er afsluttet."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s installeret korrekt."
+
+#: class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Installationen er påbegyndt. Denne proces kan tage et stykke tid på nogle sider, så vær tålmodig."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installerer og aktiverer plugin %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Alle installationer og aktiveringer er afsluttet."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3509 class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Skjul detaljer"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3509 class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Vis detaljer"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installeret og aktiveret korrekt."
+
+#: class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Installationen og aktiveringsprocessen er begyndt. Denne proces kan tage et stykke tid på nogle sider, så vær tålmodig."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Installationen af %1$s fejlede."
+
+#. translators: 1: plugin name, 2: error message.
+#: class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Der opstod en fejl under installation %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Opdaterer plugin %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Aktivering af plugin mislykkedes."
+
+#: class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Ingen plugins tilgængelige til at blive aktiveret lige nu."
+
+#: class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Ingen plugins er valgt til at blive aktiveret. Ingen handlinger foretaget"
+
+#: class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Ingen plugins er tilgængelige til at blive opdateret lige nu."
+
+#: class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Ingen plugins tilgængelige til at installere lige nu."
+
+#: class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Ingen plugins er valgt til at blive opdateret. Ingen handlinger foretaget."
+
+#: class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Ingen plugins blev valgt til installering. Ingen handlinger foretaget."
+
+#: class-tgm-plugin-activation.php:2726 inc/functions.php:69
+#: inc/functions.php:79
+msgid "Activate"
+msgstr "Aktiver"
+
+#: class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Opdater"
+
+#: class-tgm-plugin-activation.php:2717 inc/functions.php:72
+#: inc/functions.php:82
+msgid "Install"
+msgstr "Installer"
+
+#: class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Opgraderingsbesked fra plugin-forfatteren."
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Aktiver %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Opdater %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Installer %2$s"
+
+#: class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Status"
+
+#: class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Version"
+
+#: class-tgm-plugin-activation.php:2549 inc/functions.php:1127
+msgid "Type"
+msgstr "Type"
+
+#: class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Kilde"
+
+#: class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Ingen plugins at installere, opdatere eller aktivere."
+
+#: class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Tilgængelige versioner:"
+
+#: class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Version der kræves som minimum:"
+
+#: class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Installeret version:"
+
+#: class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "ukendt"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "At aktivere <span class=\"count\">(%s)</span>"
+msgstr[1] "At aktivere <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Opdateringer tilgængelige <span class=\"count\">(%s)</span>"
+msgstr[1] "Opdateringer tilgængelige <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "At installere <span class=\"count\">(%s)</span>"
+msgstr[1] "At installere <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Alle <span class=\"count\">(%s)</span>"
+msgstr[1] "Alle <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Anbefalet opdatering"
+
+#: class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Kræver opdatering"
+
+#: class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Krævede opdatering er ikke tilgængelig"
+
+#: class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Aktiv"
+
+#: class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Installeret men ikke aktiveret"
+
+#: class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Ikke installeret"
+
+#: class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Færdigpakkede"
+
+#: class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Ekstern kilde"
+
+#: class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "ANBEFALET"
+
+#: class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Påkrævet"
+
+#. translators: %s: version number
+#: class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: class-tgm-plugin-activation.php:1121 class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "og"
+
+#: class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Den fjentliggende plugin-pakke indeholder mere end én fil, men filerne er ikke pakket i en mappe."
+
+#: class-tgm-plugin-activation.php:934 class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Kontakt venligst udbyderen af dette plugin og bed dem pakke deres plugin i henhold til retningslinjerne for WordPress."
+
+#: class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Den fjerntliggende plugin-pakke indeholder ikke en mappe med det forventede kortlink og omdøbning kunne derfor ikke lade sig gøre."
+
+#: class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Opdatering krævet"
+
+#: class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Dette plugin skal opdateres for at kunne bruges med dit tema."
+
+#: class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Kontakt venligst administratoren af dette websted for at få hjælp."
+
+#: class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Der er et eller flere krævede eller anbefalede plugins at installere, opdatere eller aktivere."
+
+#: class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Afvis denne meddelelse"
+
+#. translators: 1: dashboard link.
+#: class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alle plugins blev installeret og aktiveret succesfuldt. %1$s"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin ikke aktiveret. En højere version af %s er krævet for dette tema. Opdater venligst plugin."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Ingen handlinger foretaget. Plugin %1$s var allerede aktivt."
+
+#: class-tgm-plugin-activation.php:388 class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Følgende plugin blev succesfuldt aktiveret"
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:387 class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Plugin succesfuldt aktiveret."
+
+#: class-tgm-plugin-activation.php:386 class-tgm-plugin-activation.php:827
+#: class-tgm-plugin-activation.php:2533 class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Retur til kontrolpanel"
+
+#: class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Vend tilbage til Påkrævet plugins Installation"
+
+#: class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Begynd aktivering af plugin"
+msgstr[1] "Begynd aktivering af plugins"
+
+#: class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Begynd opdatering af plugin"
+msgstr[1] "Begynd opdatering af plugins"
+
+#: class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Begynd at installere plugin"
+msgstr[1] "Begynd at installere plugins"
+
+#: class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Noget gik galt med plugin API."
+
+#. translators: %s: plugin name.
+#: class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Opdaterer plugin: %s"
+
+#. translators: %s: plugin name.
+#: class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Installerer plugin: %s"
+
+#: class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Installer plugins"
+
+#: class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Installer de krævede plugins"
+
+#. Template Name of the theme
+msgid "Front Page Template"
+msgstr "Forsideskabelon"
+
+#: template-parts/content-single.php:34
+msgid "Previous post:"
+msgstr "Forrige indlæg:"
+
+#: template-parts/content-single.php:33
+msgid "Previous:"
+msgstr "Forrige"
+
+#: template-parts/content-single.php:31
+msgid "Next post:"
+msgstr "Næste indlæg:"
+
+#: template-parts/content-single.php:30
+msgid "Next:"
+msgstr "Næste:"
+
+#: template-parts/content-page.php:6 template-parts/content-single.php:14
+msgid "Pages:"
+msgstr "Sider:"
+
+#: template-parts/content-none.php:12
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Det ser ud til, at vi ikke kan finde det, du leder efter. Måske vil en søgning hjælpe?"
+
+#: template-parts/content-none.php:9
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Beklager, men intet matchede dine søgekriterier. Prøv venligst igen med nogle andre søgeord."
+
+#: template-parts/content-none.php:7
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klar til at udgive dit første indlæg? <a href=\"%1$s\">Start her</a>."
+
+#: template-parts/content-none.php:4
+msgid "Nothing Found"
+msgstr "Intet fundet"
+
+#: template-parts/content-page.php:10 template-parts/content-single.php:18
+#: index.php:25
+msgid "Page"
+msgstr "Side"
+
+#: inc/functions.php:268
+msgid "Action button 2"
+msgstr "Handlingsknap 2"
+
+#: inc/functions.php:249
+msgid "Action button 1"
+msgstr "Handlingsknap 1"
+
+#: inc/functions.php:232
+msgid "You can set this subtitle from the customizer."
+msgstr "Du kan ændre denne undertitel i tilpasseren"
+
+#: inc/functions.php:215
+msgid "You can set this title from the customizer."
+msgstr "Du kan indstille denne titel i tilpasseren."
+
+#: inc/functions.php:2363
+msgid "Search Results for &#8220;%s&#8221;"
+msgstr "Søgeresultat for &#8220;%s&#8221;"
+
+#: inc/functions.php:2361
+msgid "Page not found"
+msgstr "Side ikke fundet"
+
+#: inc/functions.php:2332
+msgid "Y"
+msgstr "Y"
+
+#: inc/functions.php:2105
+msgid "Read more"
+msgstr "Læs mere"
+
+#: inc/functions.php:2051
+msgid "Sidebar widget area"
+msgstr "Sidebar widgetområde"
+
+#: inc/functions.php:1832 inc/functions.php:1848
+msgid "Subtitle"
+msgstr "Undertitel"
+
+#: inc/functions.php:1785 inc/functions.php:1801
+msgid "Title"
+msgstr "Titel"
+
+#: inc/functions.php:49
+msgid "Primary Menu"
+msgstr "Primær menu"
+
+#: inc/functions.php:24
+msgid "Homepage Header Image"
+msgstr "Forside header-billede"
+
+#: comments.php:42
+msgid "Comments are closed."
+msgstr "Der er lukket for kommentarer."
+
+#: comments.php:31
+msgid "Newer Comments &gt;"
+msgstr "Nyere kommentarer &rarr;"
+
+#: comments.php:28
+msgid "&lt; Older Comments"
+msgstr "&larr; Ældre kommentarer"
+
+#: comments.php:11
+msgid "% Responses"
+msgstr "% svar"
+
+#: comments.php:11
+msgid "One Response"
+msgstr "Et svar"
+
+#: comments.php:11
+msgid "No Responses"
+msgstr "Ingen svar"
+
+#. Theme URI of the theme
+msgid "http://onepageexpress.com"
+msgstr "http://onepageexpress.com"
+
+#. Author of the theme
+msgid "Horea Radu"
+msgstr "Horea Radu"
